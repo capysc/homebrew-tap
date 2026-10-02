@@ -1,8 +1,8 @@
 class Capy < Formula
   desc "End-to-end encrypted environment variables for your team"
   homepage "https://docs.capy.sc"
-  url "https://registry.npmjs.org/@capysc/cli/-/cli-0.9.7.tgz"
-  sha256 "a134646fb1790f18c40502b06c37ddce5f438f8938e681879c839a1d3d04c6fe"
+  url "https://registry.npmjs.org/@capysc/cli/-/cli-0.9.8.tgz"
+  sha256 "566f920ebe0e43cd8d83ba01f5fe7d3223c43b0c5cc11d49705182865ac4abf3"
   license "AGPL-3.0-only"
 
   depends_on "node"
